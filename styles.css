@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+body{
+	width:200px;
+	height:100px;
+	align:center;
+}
+img{
+	align:center;
+}
+p{
+	align:center;
+}
+button{
+	color:white;
+	background-color:red;
+	border:none;
+	height:60px;
+	width:100px;
+	border-radius:20px;
+}
