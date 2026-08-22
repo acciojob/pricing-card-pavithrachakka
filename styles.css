@@ -7,6 +7,7 @@
 	border-radius:12px;
 	margin:50px auto;
 	box-shadow:0 4px 10px rgba(0,0,0,0.1);
+	background-color:#e8eef4;
 	
 }
 #card img{
@@ -20,7 +21,7 @@ p{
 	color:white;
 	background-color:#f88379;
 	border:none;
-	paddind:10px 20px;
+	padding:10px 20px;
 	border-radius:20px;
 	margin-top:10px;
 	cursor:pointer;
